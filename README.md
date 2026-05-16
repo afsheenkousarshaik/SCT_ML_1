@@ -179,20 +179,6 @@ BedroomAbvGr -21483.654769
 
 Intercept: 181,441.54
 ```
-
----
-
-# 📁 Project Structure
-
-```text
-HousePrice/
-│
-├── train.csv
-├── test.csv
-├── house_price_model.py
-└── README.md
-```
-
 ---
 
 # 🎯 Future Improvements
