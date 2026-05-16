@@ -141,8 +141,6 @@ Intercept:
 # 💻 Complete Output
 
 ```text
-PS C:\Users\reddy\OneDrive\Desktop\HousePrice> python -u "c:\Users\reddy\OneDrive\Desktop\HousePrice\house_price_model.py"
-
 Train shape: (1460, 81)
 Test shape : (1459, 80)
 
@@ -153,8 +151,6 @@ First 5 rows:
 2   3          60       RL  ...        WD         Normal    223500
 3   4          70       RL  ...        WD        Abnorml    140000
 4   5          60       RL  ...        WD         Normal    250000
-
-[5 rows x 81 columns]
 
 Missing values in selected features:
 GrLivArea       0
@@ -168,7 +164,6 @@ dtype: int64
   MAE  : $36,018.56
   RMSE : $53,018.33
   R²   : 0.6335
-────────────────────────────────────────
 
 Model Coefficients:
      Feature   Coefficient
@@ -179,13 +174,4 @@ BedroomAbvGr -21483.654769
 
 Intercept: 181,441.54
 ```
----
-
-# 🎯 Future Improvements
-
-- Add more house features
-- Improve accuracy using advanced models
-- Perform feature engineering
-- Deploy using Flask or Streamlit
-
 ---
