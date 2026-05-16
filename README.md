@@ -138,22 +138,6 @@ Intercept:
 
 ---
 
-# ▶️ How to Run the Project
-
-## 1️⃣ Install Required Libraries
-
-```bash
-pip install pandas numpy scikit-learn
-```
-
-## 2️⃣ Run the Python File
-
-```bash
-python house_price_model.py
-```
-
----
-
 # 💻 Complete Output
 
 ```text
@@ -219,9 +203,3 @@ HousePrice/
 - Deploy using Flask or Streamlit
 
 ---
-
-# 👨‍💻 Author
-
-Developed by **Your Name**
-
-GitHub: https://github.com/your-username
